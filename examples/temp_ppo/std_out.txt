@@ -1,0 +1,115 @@
+2025-10-28 13:28:43,411 : 
+--------------------------------------
+| loss/                   |          |
+|    approx_kl            | 0.00699  |
+|    entropy_loss         | -0.907   |
+|    policy_loss          | -0.00181 |
+|    value_loss           | 1.81     |
+| stat/                   |          |
+|    constraint_violation | 1.1e+03  |
+|    ep_constraint_vio... | 14.7     |
+|    ep_length            | 25       |
+|    ep_return            | 8.22     |
+|    ep_reward            | 0.31     |
+| time/                   |          |
+|    progress             | 0.4      |
+|    step                 | 2e+03    |
+|    step_time            | 0.461    |
+--------------------------------------
+
+2025-10-28 13:28:45,362 : 
+---------------------------------------
+| loss/                   |           |
+|    approx_kl            | 0.0289    |
+|    entropy_loss         | -0.921    |
+|    policy_loss          | -0.000689 |
+|    value_loss           | 0.961     |
+| stat/                   |           |
+|    constraint_violation | 2.28e+03  |
+|    ep_constraint_vio... | 15.4      |
+|    ep_length            | 25.9      |
+|    ep_return            | 9.44      |
+|    ep_reward            | 0.347     |
+| time/                   |           |
+|    progress             | 0.8       |
+|    step                 | 4e+03     |
+|    step_time            | 0.393     |
+---------------------------------------
+
+2025-10-28 13:29:29,484 : 
+--------------------------------------
+| loss/                   |          |
+|    approx_kl            | 0.00699  |
+|    entropy_loss         | -0.907   |
+|    policy_loss          | -0.00181 |
+|    value_loss           | 1.81     |
+| stat/                   |          |
+|    constraint_violation | 1.1e+03  |
+|    ep_constraint_vio... | 14.7     |
+|    ep_length            | 25       |
+|    ep_return            | 8.22     |
+|    ep_reward            | 0.31     |
+| time/                   |          |
+|    progress             | 0.4      |
+|    step                 | 2e+03    |
+|    step_time            | 0.44     |
+--------------------------------------
+
+2025-10-28 13:29:31,612 : 
+---------------------------------------
+| loss/                   |           |
+|    approx_kl            | 0.0289    |
+|    entropy_loss         | -0.921    |
+|    policy_loss          | -0.000689 |
+|    value_loss           | 0.961     |
+| stat/                   |           |
+|    constraint_violation | 2.28e+03  |
+|    ep_constraint_vio... | 15.4      |
+|    ep_length            | 25.9      |
+|    ep_return            | 9.44      |
+|    ep_reward            | 0.347     |
+| time/                   |           |
+|    progress             | 0.8       |
+|    step                 | 4e+03     |
+|    step_time            | 0.464     |
+---------------------------------------
+
+2025-10-28 13:31:24,836 : 
+--------------------------------------
+| loss/                   |          |
+|    approx_kl            | 0.00699  |
+|    entropy_loss         | -0.907   |
+|    policy_loss          | -0.00181 |
+|    value_loss           | 1.81     |
+| stat/                   |          |
+|    constraint_violation | 1.1e+03  |
+|    ep_constraint_vio... | 14.7     |
+|    ep_length            | 25       |
+|    ep_return            | 8.22     |
+|    ep_reward            | 0.31     |
+| time/                   |          |
+|    progress             | 0.4      |
+|    step                 | 2e+03    |
+|    step_time            | 0.439    |
+--------------------------------------
+
+2025-10-28 13:31:27,034 : 
+---------------------------------------
+| loss/                   |           |
+|    approx_kl            | 0.0289    |
+|    entropy_loss         | -0.921    |
+|    policy_loss          | -0.000689 |
+|    value_loss           | 0.961     |
+| stat/                   |           |
+|    constraint_violation | 2.28e+03  |
+|    ep_constraint_vio... | 15.4      |
+|    ep_length            | 25.9      |
+|    ep_return            | 9.44      |
+|    ep_reward            | 0.347     |
+| time/                   |           |
+|    progress             | 0.8       |
+|    step                 | 4e+03     |
+|    step_time            | 0.518     |
+---------------------------------------
+
+2025-10-28 13:31:28,549 : Checkpoint | ./temp_ppo/model_checkpoint.pt
